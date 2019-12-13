@@ -1,0 +1,4 @@
+C:\Users\Edgar\source\repos\mqtt_test\mqtt_subscriber\bin\Debug\netcoreapp3.0\mqtt_subscriber.exe
+C:\Users\Edgar\source\repos\mqtt_test\mqtt_subscriber\obj\Debug\netcoreapp3.0\mqtt_subscriber.csprojAssemblyReference.cache
+C:\Users\Edgar\source\repos\mqtt_test\mqtt_subscriber\obj\Debug\netcoreapp3.0\mqtt_subscriber.AssemblyInfoInputs.cache
+C:\Users\Edgar\source\repos\mqtt_test\mqtt_subscriber\obj\Debug\netcoreapp3.0\mqtt_subscriber.AssemblyInfo.cs

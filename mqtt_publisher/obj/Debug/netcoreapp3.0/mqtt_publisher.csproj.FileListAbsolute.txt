@@ -1,0 +1,3 @@
+C:\Users\Edgar\source\repos\mqtt_test\mqtt_publisher\bin\Debug\netcoreapp3.0\mqtt_publisher.exe
+C:\Users\Edgar\source\repos\mqtt_test\mqtt_publisher\obj\Debug\netcoreapp3.0\mqtt_publisher.AssemblyInfoInputs.cache
+C:\Users\Edgar\source\repos\mqtt_test\mqtt_publisher\obj\Debug\netcoreapp3.0\mqtt_publisher.AssemblyInfo.cs

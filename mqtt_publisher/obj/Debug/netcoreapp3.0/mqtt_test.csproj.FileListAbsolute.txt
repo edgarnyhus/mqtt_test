@@ -1,0 +1,15 @@
+C:\Users\Edgar\source\repos\mqtt_test\mqtt_publisher\bin\Debug\netcoreapp3.0\mqtt_test.exe
+C:\Users\Edgar\source\repos\mqtt_test\mqtt_publisher\bin\Debug\netcoreapp3.0\mqtt_test.deps.json
+C:\Users\Edgar\source\repos\mqtt_test\mqtt_publisher\bin\Debug\netcoreapp3.0\mqtt_test.runtimeconfig.json
+C:\Users\Edgar\source\repos\mqtt_test\mqtt_publisher\bin\Debug\netcoreapp3.0\mqtt_test.runtimeconfig.dev.json
+C:\Users\Edgar\source\repos\mqtt_test\mqtt_publisher\bin\Debug\netcoreapp3.0\mqtt_test.dll
+C:\Users\Edgar\source\repos\mqtt_test\mqtt_publisher\bin\Debug\netcoreapp3.0\mqtt_test.pdb
+C:\Users\Edgar\source\repos\mqtt_test\mqtt_publisher\bin\Debug\netcoreapp3.0\MQTTnet.dll
+C:\Users\Edgar\source\repos\mqtt_test\mqtt_publisher\obj\Debug\netcoreapp3.0\mqtt_test.AssemblyInfoInputs.cache
+C:\Users\Edgar\source\repos\mqtt_test\mqtt_publisher\obj\Debug\netcoreapp3.0\mqtt_test.AssemblyInfo.cs
+C:\Users\Edgar\source\repos\mqtt_test\mqtt_publisher\obj\Debug\netcoreapp3.0\mqtt_test.csproj.CopyComplete
+C:\Users\Edgar\source\repos\mqtt_test\mqtt_publisher\obj\Debug\netcoreapp3.0\mqtt_test.dll
+C:\Users\Edgar\source\repos\mqtt_test\mqtt_publisher\obj\Debug\netcoreapp3.0\mqtt_test.pdb
+C:\Users\Edgar\source\repos\mqtt_test\mqtt_publisher\obj\Debug\netcoreapp3.0\mqtt_test.csprojAssemblyReference.cache
+C:\Users\Edgar\source\repos\mqtt_test\mqtt_publisher\bin\Debug\netcoreapp3.0\MessagePack.dll
+C:\Users\Edgar\source\repos\mqtt_test\mqtt_publisher\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
